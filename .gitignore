@@ -6,7 +6,8 @@ user_TOTSEG.txt
 user_XNAT.txt
 user_OSF.txt
 build/*
-
+iBEAt_Build/*
+archives/*
 ### package builds
 .venv/*
 docs/build
