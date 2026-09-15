@@ -16,25 +16,7 @@ import dbdicom as db
 
 import napari
 
-# List of patients to exclude
-# EXCLUDE = [
-#     '3128_025',
-#     #sheffield Philips TO DO
-#     7128_002,
-#     7128_005,
-#     7128_006,
-#     7128_007,
-#     7128_008,
-#     7128_009,
-#     7128_010,
-#     7128_011,
-#     7128_012,
-#     7128_014,
-#     7128_015,
-#     7128_016,
-#     7128_017
 
-# ]
 
 # Helper: Flatten directory after extraction
 def flatten_folder(root_folder):
