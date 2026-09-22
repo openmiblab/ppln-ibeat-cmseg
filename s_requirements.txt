@@ -1,0 +1,17 @@
+numpy==2.5.3
+scipy==1.18.1
+nibabel==5.4.2
+
+torch
+torchvision
+torchaudio
+
+nnInteractive==2.5.1
+nninteractive-client==2.5.1
+
+napari==0.8.0
+napari-nninteractive==2.5.3
+napari-nifti==0.0.20
+
+PyQt6==6.11.0
+tqdm==4.70.0
